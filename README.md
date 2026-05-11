@@ -1,3 +1,3 @@
 # coolours
 
-Учебный проект
+Educational project
